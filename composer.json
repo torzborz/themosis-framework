@@ -1,7 +1,11 @@
 {
   "name": "themosis/framework",
   "description": "The Themosis framework.",
-  "keywords": ["themosis", "framework", "wordpress"],
+  "keywords": [
+    "themosis",
+    "framework",
+    "wordpress"
+  ],
   "license": "GPL-2.0-or-later",
   "support": {
     "issues": "https://github.com/themosis/framework/issues",
@@ -62,7 +66,7 @@
     "illuminate/view": "^12.18.0",
     "laravel/tinker": "^2.5",
     "laravel/ui": "^4.0",
-    "league/flysystem": "^3.29.1",
+    "league/flysystem": "^1.1",
     "league/fractal": "^0.20",
     "paragonie/sodium_compat": "^1.15",
     "predis/predis": "^1.1",
